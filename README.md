@@ -15,3 +15,7 @@ Contents
 - Assignment 4
 
 Submitted by: Shwetha C.
+
+### Note for Imtiyaz
+Hi Imtiyaz, I just updated my repository (Hexaware_Java_Foundation) with the revised version of my project PDF (Sprint_Week_1.pdf) containing additional details. Please refer to this latest version when evaluating. Thank you!
+
